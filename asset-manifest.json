@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oxford_citybreak/static/css/main.93f95e19.css",
+    "main.css": "/oxford_citybreak/static/css/main.155961b9.css",
     "main.js": "/oxford_citybreak/static/js/main.d524ced2.js",
     "static/media/tolkien-tree.jpg": "/oxford_citybreak/static/media/tolkien-tree.b2f8b99d08f9bb57164d.jpg",
     "static/media/bear-inn.jpg": "/oxford_citybreak/static/media/bear-inn.9d6883a4f49ff95f35fe.jpg",
@@ -25,11 +25,11 @@
     "static/media/magdalen-grove.jpeg": "/oxford_citybreak/static/media/magdalen-grove.9578fc0d7fa77cf47715.jpeg",
     "static/media/castle-mound.jpeg": "/oxford_citybreak/static/media/castle-mound.bd2bd5c0cd6bd1162cb5.jpeg",
     "index.html": "/oxford_citybreak/index.html",
-    "main.93f95e19.css.map": "/oxford_citybreak/static/css/main.93f95e19.css.map",
+    "main.155961b9.css.map": "/oxford_citybreak/static/css/main.155961b9.css.map",
     "main.d524ced2.js.map": "/oxford_citybreak/static/js/main.d524ced2.js.map"
   },
   "entrypoints": [
-    "static/css/main.93f95e19.css",
+    "static/css/main.155961b9.css",
     "static/js/main.d524ced2.js"
   ]
 }
