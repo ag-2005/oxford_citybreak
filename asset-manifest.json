@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/oxford_citybreak/static/css/main.93f95e19.css",
+    "main.js": "/oxford_citybreak/static/js/main.d524ced2.js",
+    "static/media/tolkien-tree.jpg": "/oxford_citybreak/static/media/tolkien-tree.b2f8b99d08f9bb57164d.jpg",
+    "static/media/bear-inn.jpg": "/oxford_citybreak/static/media/bear-inn.9d6883a4f49ff95f35fe.jpg",
+    "static/media/oxford-map.png": "/oxford_citybreak/static/media/oxford-map.6c33e124c28504f9e03a.png",
+    "static/media/oxford-logo.png": "/oxford_citybreak/static/media/oxford-logo.6f47a01176051f189c7d.png",
+    "static/media/Bodleian-Library.jpg": "/oxford_citybreak/static/media/Bodleian-Library.6de422f9ffe13f31d062.jpg",
+    "static/media/mary-passage.jpg": "/oxford_citybreak/static/media/mary-passage.579d8422cbedc7223b09.jpg",
+    "static/media/hidden-gems.png": "/oxford_citybreak/static/media/hidden-gems.4af560a23ed8e0d8d377.png",
+    "static/media/bodleian-library-tunnel.jpg": "/oxford_citybreak/static/media/bodleian-library-tunnel.09ff3602390d656b9331.jpg",
+    "static/media/booking-punting.jpg": "/oxford_citybreak/static/media/booking-punting.d962e7cd43256e44a8ec.jpg",
+    "static/media/favourites.jpg": "/oxford_citybreak/static/media/favourites.37d430da686bf6019f60.jpg",
+    "static/media/New-College.jpg": "/oxford_citybreak/static/media/New-College.7484fef46686e6efac7a.jpg",
+    "static/media/vault-garden-cafe.jpg": "/oxford_citybreak/static/media/vault-garden-cafe.3ecc365c85dfff2e3f0e.jpg",
+    "static/media/radcliffe-camera-tunnel.jpg": "/oxford_citybreak/static/media/radcliffe-camera-tunnel.6aa66ec6fb5829728188.jpg",
+    "static/media/punting.jpg": "/oxford_citybreak/static/media/punting.2e8fb5187eccb86b39b5.jpg",
+    "static/media/harry-potter-map.jpg": "/oxford_citybreak/static/media/harry-potter-map.2475aa16be7d5af141a7.jpg",
+    "static/media/turf-tavern.jpg": "/oxford_citybreak/static/media/turf-tavern.43029223d0c445c73e2d.jpg",
+    "static/media/Christ-Church.jpg": "/oxford_citybreak/static/media/Christ-Church.0dff9d3885f0bd368dd5.jpg",
+    "static/media/Botanic-Garden.jpeg": "/oxford_citybreak/static/media/Botanic-Garden.e57bc1f726b957de8e57.jpeg",
+    "static/media/mesopotamia-walk.jpg": "/oxford_citybreak/static/media/mesopotamia-walk.d587ae944b0dd3a2eeda.jpg",
+    "static/media/Magdalen-College.jpg": "/oxford_citybreak/static/media/Magdalen-College.a6cae46e885b9f774b43.jpg",
+    "static/media/magdalen-grove.jpeg": "/oxford_citybreak/static/media/magdalen-grove.9578fc0d7fa77cf47715.jpeg",
+    "static/media/castle-mound.jpeg": "/oxford_citybreak/static/media/castle-mound.bd2bd5c0cd6bd1162cb5.jpeg",
+    "index.html": "/oxford_citybreak/index.html",
+    "main.93f95e19.css.map": "/oxford_citybreak/static/css/main.93f95e19.css.map",
+    "main.d524ced2.js.map": "/oxford_citybreak/static/js/main.d524ced2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f95e19.css",
+    "static/js/main.d524ced2.js"
+  ]
+}
